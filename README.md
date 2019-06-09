@@ -1,5 +1,5 @@
 # AbcClub-socialsite-
-API : https://github.com/SajalAhmeed/abcclub-api
+API : https://github.com/SajalAhmed/abcclub-api
 
 ![screenshot_2019-02-18 react app 2](https://user-images.githubusercontent.com/28836413/52928185-b2bf2f00-3368-11e9-8a2a-f63790ea693f.png)
 
